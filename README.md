@@ -12,11 +12,12 @@ Theme: Application of Web3 in Property Management
 
 ### Abstract
 
-(within 400 words)
+NewFashionTrend is a Web 3.0 platform that aims to revolutionize online shopping by combining fashion with cutting-edge technology. Users can try on clothes virtually by creating personalized avatars and receive recommendations based on their body type and previous orders. NewFashionTrend provides secure payment options with cryptocurrencies such as OKX Wallet, so users do not have to worry about leaks of personal information. Moreover, there will be special collaborations with different brands and companies where limited number of minted special-edition NFTs will be given to a selected number of consumers who buy the corresponding item using our platform within the promotional season. By establishing a platform with AR and blockchain, we are able to provide safe online shopping experiences and overcome limitations of current on and off-line shopping while endowing more value to products sold on our website.
 
 ### Presentation Video
 
-[YouTube](https://www.youtube.com/)
+[Without Demo](https://youtu.be/NReH7azgcHA)
+[With Demo](https://youtu.be/L8DGhSDIbAM)
 
 ### High-fidelity Prototype
 
@@ -26,6 +27,6 @@ Theme: Application of Web3 in Property Management
 
 ### Source Code Demo
 
-![Demo](source.mov)
+[Demo](https://youtu.be/WN9CsG8iIF0)
 
 - shows the flow of the payment page
